@@ -1,0 +1,6 @@
+﻿  App.cpp
+d:\progects\stsmch\app\app\app.cpp(214): warning C4018: <: несоответствие типов со знаком и без знака
+d:\progects\stsmch\app\app\app.cpp(255): warning C4305: аргумент: усечение из "int" в "const char"
+d:\progects\stsmch\app\app\app.cpp(255): warning C4309: аргумент: усечение константного значения
+d:\progects\stsmch\app\app\app.cpp(549): error C2181: недопустимый else без парного if
+d:\progects\stsmch\app\app\app.cpp(503): fatal error C1075: "{": не найдена несоответствующая лексема
