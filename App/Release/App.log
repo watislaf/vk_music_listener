@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  App.cpp
+d:\progects\stsmch\app\app\app.cpp(214): warning C4018: <: несоответствие типов со знаком и без знака
+d:\progects\stsmch\app\app\app.cpp(255): warning C4305: аргумент: усечение из "int" в "const char"
+d:\progects\stsmch\app\app\app.cpp(255): warning C4309: аргумент: усечение константного значения
+  Создание кода
+  All 510 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  App.vcxproj -> D:\Progects\StsMCh\App\Release\App.exe
